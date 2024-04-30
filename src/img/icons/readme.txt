@@ -1,0 +1,1 @@
+Soon sending them to the database so it could help with the loading at all

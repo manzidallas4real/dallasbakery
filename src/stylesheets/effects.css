@@ -1,0 +1,26 @@
+::-webkit-scrollbar{
+    width: 1em;
+    background-color: rgb(175, 43, 43);
+}
+::-webkit-scrollbar-track{
+    background-color: rgb(203, 45, 45);
+    margin-block: 0.4em;
+    border-radius: 100vw;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: bisque;
+    border-radius: 100vw;
+}
+.copyright p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.copyright img{
+    margin-left: 4px;
+}
+.form{
+    background-image: url("bg.jpg");
+    /* background-color:black ; */
+}

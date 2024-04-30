@@ -1,0 +1,25 @@
+*{
+    font-family: poppins;
+}
+
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 300,
+    'GRAD' 0,
+    'opsz' 20
+}
+
+
+
+#menu{
+    width: 1000px;
+    margin-top: 12px;
+}
+input[type=search]{
+    width: 500px;
+}
+table tr{
+    gap: 12px
+}
